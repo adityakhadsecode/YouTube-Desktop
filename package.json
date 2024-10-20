@@ -1,15 +1,14 @@
 {
-  "name": "youtubedesktopapp",
+  "name": "youtube-desktop",
   "version": "1.0.0",
-  "description": "",
+  "description": "Not just another youtube",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
-  "keywords": [],
-  "author": "",
+  "author": "Aditya Khadse",
   "license": "ISC",
-  "devDependencies": {
-    "electron": "^32.0.1"
+  "dependencies": {
+    "electron": "^33.0.1"
   }
 }
